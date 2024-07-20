@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662856748493",
+    "project_id": "intelli-plants-android-main",
+    "storage_bucket": "intelli-plants-android-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662856748493:android:acf09197647150b9454884",
+        "android_client_info": {
+          "package_name": "com.intelli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662856748493-gns5k8dtjb2salb36hke4d9gvbf3ad74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMx32rYBu7K-NWThXsm6AR46q50KK56kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662856748493-gns5k8dtjb2salb36hke4d9gvbf3ad74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
